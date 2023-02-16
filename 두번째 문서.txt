@@ -2,3 +2,6 @@
 git add . : 전체를 add
 git commit -m "0216 두번째 커밋" : commit
 git log : commit이 2개가 있는지 확인
+
+git clone을 통해 전체를 복사해오면
+git 살아있다

@@ -1,0 +1,4 @@
+두번째 내용입니다
+git add . : 전체를 add
+git commit -m "0216 두번째 커밋" : commit
+git log : commit이 2개가 있는지 확인
